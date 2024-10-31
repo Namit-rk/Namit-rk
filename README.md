@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on projects related to reservoir computing, machine learning for financial systems, and quantitative analysis in finance.
 - 📫 How to reach me namit2211@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: 
 
 <!---
 Namit-rk/Namit-rk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
