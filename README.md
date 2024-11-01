@@ -1,4 +1,4 @@
-![alt text](https://i.pinimg.com/originals/cb/bc/35/cbbc35a6a2730198584ec100299f06b3.jpg)
+<img src="https://i.pinimg.com/originals/cb/bc/35/cbbc35a6a2730198584ec100299f06b3.jpg" alt="alt text" width="1000" height="300">
 
 - 👋 Hi, I’m @Namit-rk
 - 👀 I’m interested in Physics, quantitative finance, nonlinear dynamics, machine learning, History, Psychology and hitting the gym
