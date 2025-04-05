@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @Namit-rk
 - 👀 I’m interested in Physics, quantitative finance, nonlinear dynamics, machine learning, History, Psychology and hitting the gym
-- 🌱 I’m currently learning Financial Engineering on Coursera and DSA
+- 🌱 I’m currently learning DSA and actively solving problens in Leetcode and Codeforces
 - 💞️ I’m looking to collaborate on projects related to reservoir computing, machine learning for financial systems, and quantitative analysis in finance.
 - 😄 Pronouns: he/him
 <!---
